@@ -45,8 +45,8 @@ I'm a passionate developer who enjoys building full-stack applications and exper
 
 ## 📫 Let's Connect
 - 📧 Email: [kushalbharadwaj68@gmail.com](mailto:kushalbharadwaj68@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/kushalbharadwaj18](https://www.linkedin.com/in/kushalbharadwaj18)
-- 💡 LeetCode: [leetcode.com/kushalbharadwaj18](https://leetcode.com/kushalbharadwaj18)
+- 💼 LinkedIn: [linkedin.com/in/kushalbharadwaj18](https://www.linkedin.com/in/kushal-bharadwaj-253989293/)
+- 💡 LeetCode: [leetcode.com/kushalbharadwaj18](https://leetcode.com/u/Kushal_bharadwaj-estari/)
 
 ---
 
